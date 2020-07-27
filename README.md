@@ -1,4 +1,4 @@
-##Genetic Meta-Structure Search for Recommendation on Heterogeneous Information Network
+## Genetic Meta-Structure Search for Recommendation on Heterogeneous Information Network
 
 ### 
 
