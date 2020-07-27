@@ -70,10 +70,10 @@ Here, we use the following node types of Yelp dataset to generate our HIN. The b
      mkdir result_log
      mkdir result_log/yelp
      mkdir result_edges
-mkdir error_genes_results
+     mkdir error_genes_results
      python GEMS_yelp.py
      ```
-     
+
      Note that you may need to change the multi-process training setup according to your server. Search #IMPORTANT in GEMS_yelp.py to locate multi-process setup.
      
      
