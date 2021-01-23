@@ -7,7 +7,7 @@ import setproctitle
 import math
 from scipy.stats import pearsonr,spearmanr
 import matplotlib.pyplot as plt
-setproctitle.setproctitle('GEMS@hanzhenyu-EXCLUSIVE-on-GPU5,6,7')
+setproctitle.setproctitle('GEMS_metaPredictor')
 
 
 #定义模型
